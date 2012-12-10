@@ -51,3 +51,10 @@ EOF
 %{_datadir}/%{name}
 %{_datadir}/applications/%{name}.desktop
 
+
+
+%changelog
+* Wed Mar 07 2012 Andrey Bondrov <abondrov@mandriva.org> 0.2.4-1mdv2011.0
++ Revision: 782662
+- imported package iwscanner
+

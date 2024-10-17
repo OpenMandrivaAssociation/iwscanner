@@ -4,7 +4,7 @@ Name:		iwscanner
 Version:	0.2.4
 Release:	2
 Summary:	Wireless scanner based on iwtools
-URL:		http://kuthulu.com/iwscanner/index.php
+URL:		https://kuthulu.com/iwscanner/index.php
 License:	LGPLv2+
 Group:		Networking/Other
 Source:		http://kuthulu.com/iwscanner/%{name}-%{version}.tgz
